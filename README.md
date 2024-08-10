@@ -44,8 +44,3 @@ __Check out my GitHub repository:__
 
 ![My GitHub status](https://github-readme-stats.vercel.app/api?username=GajananPalepwad&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GajananPalepwad&layout=compact)
-
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/GajananPalepwad">GajananPalepwad</a>
-
-Date: 10/08/2024
