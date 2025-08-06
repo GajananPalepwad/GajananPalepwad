@@ -9,7 +9,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer Science and Engineering student at SGGSIE&T Nanded, Maharashtra, expected to graduate in May 2025. I have experience in multiple programming languages including Java, Kotlin, Python, JavaScript, C, and SQL. I enjoy learning and building new, productive, innovative, and creative projects.
+I am an graduate Computer Science and Engineering student at SGGSIE&T Nanded, Maharashtra. I have experience in multiple programming languages including Java, Kotlin, Python, JavaScript, C, and SQL. I enjoy learning and building new, productive, innovative, and creative projects.
 
 - I am interested in Android development, backend development, and software engineering
 - 🌱 I’m currently learning ...
