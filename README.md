@@ -3,8 +3,8 @@
 ### Computer Science Engineer | Software Developer | Open-Source Enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GajananPalepwad&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/GajananPalepwad?tab=followers">
+  <!-- <img src="https://komarev.com/ghpvc/?username=GajananPalepwad&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/GajananPalepwad?tab=followers"> -->
     <img src="https://img.shields.io/github/followers/GajananPalepwad?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
   </a>
 </p>
